@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mewsin&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mewsin&show_icons=true&theme=radical)
 </div>
 
 <!--내용 부분-->
